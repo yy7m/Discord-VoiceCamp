@@ -12,6 +12,12 @@ pip install colorama, discord.py
 ```
 2. Insert your token on the very last line between quotes.
 3. Run the program using `Python3.x` and you are good to go.
+
+## Usage
+```
+!join <channel_id>
+!leave
+```
 ## Features
 
 - Stay online forever.
