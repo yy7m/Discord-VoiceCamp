@@ -13,6 +13,7 @@ pip install colorama, discord.py
 2. Insert your token on the very last line between quotes.
 3. Run the program using `Python3.x` and you are good to go.
 
+[Extra] : You can host your account 24/7 on [repl.it](https://repl.it/) using [Uptime Robot](https://uptimerobot.com/). Refer to this [article](https://dev.to/12944qwerty/hosting-a-discord-py-bot-with-repl-it-3l5a) for setting it up.
 ## Usage
 ```
 !join <channel_id>
@@ -21,7 +22,7 @@ pip install colorama, discord.py
 ## Features
 
 - Stay online forever.
-- Connect to a any Voice Channel in any server.
+- Connect to any Voice Channel in any server.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
