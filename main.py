@@ -2,7 +2,7 @@
 from discord.ext import commands
 import discord
 from colorama import Fore
-
+from keep_alive import keep_alive
 bot = commands.Bot("!", self_bot=True) # Defining bot.
 
 @bot.event # Turning the bot online.
@@ -23,5 +23,5 @@ async def leave(ctx):
     await ctx.message.delete()
     
 
-
+keep_alive()
 bot.run("add_your_token_here", bot=False) # Run the bot by adding your token in between the quotes.
