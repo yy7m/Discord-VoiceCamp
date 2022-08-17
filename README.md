@@ -1,6 +1,8 @@
 # Discord VoiceCamp v0.1
 
-Keep your discord account online 24/7 in a voice chat.
+Keep your discord account online 24/7 in a voice chat. 
+
+This project is for educational purpose only!
 
 ## Installation
 
