@@ -5,7 +5,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "Bot is online"
+    return "Selfbot has been turned on."
 
 def run():
   app.run(host='0.0.0.0',port=8080)
