@@ -15,6 +15,7 @@ pip install colorama, discord.py
 
 [Extra] : You can host your account 24/7 on [repl.it](https://repl.it/) using [Uptime Robot](https://uptimerobot.com/). Refer to this [article](https://dev.to/12944qwerty/hosting-a-discord-py-bot-with-repl-it-3l5a) for setting it up.
 [Contact ] : Contact me on Discord if you still need help at Runtime Terror#5317.
+[REPL.IT ] : This repository is already hosted on repl.it, directly fork it via [clicking on this link](https://replit.com/@rajatuiwebdev/Discord-VoiceCamp).
 ## Usage
 ```
 !join <channel_id>
