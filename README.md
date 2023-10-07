@@ -1,4 +1,4 @@
-# Discord VoiceCamp v0.1
+# Discord VoiceCamp v0.1 [ Outdated ]
 
 Keep your discord account online 24/7 in a voice chat. 
 
